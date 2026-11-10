@@ -33,3 +33,6 @@ AI assisted with code, explanations and report assembly; the student executed ex
 
 ## GitHub Pages
 In repository Settings → Pages, choose Deploy from a branch, branch `main`, folder `/ (root)`, then Save.
+
+Author: RICHINA ORTANCIA DOMINIQUE（杜米妮）
+Course: 人工智能与经济管理研究
